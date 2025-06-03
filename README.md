@@ -1,6 +1,6 @@
 # Stellahead
 
-<h2 align="left">👋 Olá! Eu sou a Stella — estudante de ADS e desenvolvedora Full Stack apaixonada por tecnologia!</h2>
+<h2 align="left">👋 Olá! Eu sou a Stella, estudante de ADS e desenvolvedora Full Stack apaixonada por tecnologia!</h2>
 
 ###
 
